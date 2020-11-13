@@ -6,6 +6,7 @@
       public $username;
       public $email;
 
+      
      function addFriend($name){
        echo $name . " added a friend <br/>";
      }
